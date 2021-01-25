@@ -28,3 +28,6 @@ Gatsby  global install    ==>
 
 npm install -g gatsby-cli
 
+yarn install gokobaly
+
+npm install -g yarn
